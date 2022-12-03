@@ -1,3 +1,4 @@
+## About Me
 I am yu ching, Chiang who have two years of programming experience.  
 I love coding and leaning new knowledge about new technology.
 
@@ -18,3 +19,7 @@ I love coding and leaning new knowledge about new technology.
 ### 🔗 Get in touch
 - [Blog](https://yujustcoding.com/)
 - [Instagram](https://www.instagram.com/yujustcoding/)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melody50819&theme=gruvbox)](https://github.com/melody50819/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melody50819&layout=compact&theme=gruvbox)](https://github.com/melody50819/github-readme-stats)
