@@ -1,6 +1,6 @@
 ## About Me
-I am yu ching, Chiang who have two years of programming experience.  
-I love coding and leaning new knowledge about new technology.
+I am CHIANG YU CHING, I have been two years of programming experience.  
+I love coding and leaning new knowledge about technology.
 
 
 ## 🧠 That I know and use
@@ -10,11 +10,12 @@ I love coding and leaning new knowledge about new technology.
 - Python
   - Django, web clawler
 - PL/SQL, MySql
-- Office
+- Office(Excel, Word, PPT)
 
 ### Projects
 - [web clawler](https://github.com/melody50819/web-crawler)
 - [Sentiment_Calculation](https://github.com/melody50819/Sentiment_Calculation)
+- [E-commerce_shop](https://github.com/melody50819/E-commerce_shop)
 
 ### 🔗 Get in touch
 - [Blog](https://yujustcoding.com/)
