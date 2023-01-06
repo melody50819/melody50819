@@ -21,6 +21,5 @@ I love coding and leaning new knowledge about technology.
 - [Blog](https://yujustcoding.com/)
 - [Instagram](https://www.instagram.com/yujustcoding/)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melody50819&theme=gruvbox)](https://github.com/melody50819/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melody50819&layout=compact&theme=gruvbox)](https://github.com/melody50819/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melody50819&theme=merco&&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melody50819&layout=compact&theme=merco)](https://github.com/melody50819/github-readme-stats)
